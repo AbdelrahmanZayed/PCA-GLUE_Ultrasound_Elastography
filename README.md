@@ -5,7 +5,7 @@ This is the code used by Abdelrahman Zayed in the IEEE Transactions on Ultrasoni
 
 https://ieeexplore.ieee.org/document/9091615
 
-It is very easy to test this code, you will simplt need to:
+It is very easy to test this code, you will simply need to:
 
 1-Download the whole zip file and extract it. \
 2-Run the example_phantom.m file using Matlab. \
