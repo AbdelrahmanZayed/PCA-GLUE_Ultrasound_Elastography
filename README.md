@@ -8,7 +8,7 @@ https://ieeexplore.ieee.org/document/9091615
 It is very easy to test this code, you will simply need to:
 
 1-Download the whole zip file and extract it. \
-2-Run the example_phantom.m file using Matlab. \
+2-Run the example_phantom.m file using Matlab. 
 
 If you are using the code in your work, please cite the paper: 
 
