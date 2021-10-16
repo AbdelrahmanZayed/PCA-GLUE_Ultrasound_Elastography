@@ -9,7 +9,7 @@ Link to the paper: https://arxiv.org/pdf/1911.05242.pdf
  
 
 ## How it works
-Simply run the example_phantom.m file using Matlab.
+Simply run the `example_phantom.m ` file using Matlab. 
 
 
 ## Citation
