@@ -6,9 +6,9 @@ We introduce a method that learns 12 displacement modes in quasi-static elastogr
 
 For more details:
 1. **The IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control (TUFFC) journal paper entitled "Fast Strain Estimation and Frame Selection in Ultrasound Elastography using Machine Learning".**
-Link to the paper: ([link](https://ieeexplore.ieee.org/document/9091615))
+([link](https://ieeexplore.ieee.org/document/9091615))
 2. **The IEEE 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) paper entitled "Fast approximate time-delay estimation in ultrasound elastography using principal component analysis".**
-Link to the paper: ([link](https://arxiv.org/pdf/1911.05242.pdf))
+([link](https://arxiv.org/pdf/1911.05242.pdf))
  
 
 ## How it works
