@@ -1,15 +1,40 @@
 # PCA-GLUE for Ultrasound Elastography
 PCA-GLUE is a method used for strain estimation in Ultrasound Elastography.
 
-This is the code used by Abdelrahman Zayed in the IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control (TUFFC) journal paper entitled "Fast Strain Estimation and Frame Selection in Ultrasound Elastography using Machine Learning".
+This is the code used by Abdelrahman Zayed in
+1. **The IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control (TUFFC) journal paper entitled "Fast Strain Estimation and Frame Selection in Ultrasound Elastography using Machine Learning".**
+2. **The IEEE 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) paper entitled "Fast approximate time-delay estimation in ultrasound elastography using principal component analysis".**
+
+
+
 
 https://ieeexplore.ieee.org/document/9091615
 
-It is very easy to test this code, you will simply need to:
+## How it works
+It is very easy to test this code, you will simply need to run the example_phantom.m file using Matlab.
 
-1-Download the whole zip file and extract it. \
-2-Run the example_phantom.m file using Matlab. 
 
-If you are using the code in your work, please cite the paper: 
+## Citation
 
-A. Zayed and H. Rivaz, "Fast Strain Estimation and Frame Selection in Ultrasound Elastography using Machine Learning," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, doi: 10.1109/TUFFC.2020.2994028.
+If you find this work useful for your research, this is the way to cite it:
+
+```
+@article{zayed2020fast,
+  title={Fast Strain Estimation and Frame Selection in Ultrasound Elastography using Machine Learning},
+  author={Zayed, Abdelrahman and Rivaz, Hassan},
+  journal={IEEE transactions on ultrasonics, ferroelectrics, and frequency Control},
+  volume={68},
+  number={3},
+  pages={406--415},
+  year={2020},
+  publisher={IEEE}
+}
+
+@inproceedings{zayed2019fast,
+  title={Fast approximate time-delay estimation in ultrasound elastography using principal component analysis},
+  author={Zayed, Abdelrahman and Rivaz, Hassan},
+  booktitle={2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)},
+  pages={6204--6207},
+  year={2019},
+  organization={IEEE}
+}
