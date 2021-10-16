@@ -1,15 +1,18 @@
 # PCA-GLUE for Ultrasound Elastography
 PCA-GLUE is a method used for strain estimation in Ultrasound Elastography.
 
-This is the code used by Abdelrahman Zayed in:
+## What is it?
+We introduce a method that learns 12 displacement modes in quasi-static elastography by performing Principal Component Analysis (PCA) on displacement fields of a large training database. In the inference stage, we use dynamic programming (DP) to compute an initial displacement estimate of around 1% of the samples, and then decompose this sparse displacement into a linear combination of the 12 displacement modes. Our method assumes that the displacement of the whole image could also be described by this linear combination of principal components. We then use the GLobal Ultrasound Elastography (GLUE) method to fine-tune the result yielding the exact displacement image. Our method, which we call PCA-GLUE, is more than 10 times faster than DP in calculating the initial displacement map while giving the same result. 
+
+For more details:
 1. **The IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control (TUFFC) journal paper entitled "Fast Strain Estimation and Frame Selection in Ultrasound Elastography using Machine Learning".**
-Link to the paper: https://ieeexplore.ieee.org/document/9091615
+Link to the paper: ([link](https://ieeexplore.ieee.org/document/9091615))
 2. **The IEEE 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) paper entitled "Fast approximate time-delay estimation in ultrasound elastography using principal component analysis".**
-Link to the paper: https://arxiv.org/pdf/1911.05242.pdf
+Link to the paper: ([link](https://arxiv.org/pdf/1911.05242.pdf))
  
 
 ## How it works
-Simply run the `example_phantom.m ` file using Matlab. 
+Simply run the example_phantom.m file using Matlab. 
 
 
 ## Citation
