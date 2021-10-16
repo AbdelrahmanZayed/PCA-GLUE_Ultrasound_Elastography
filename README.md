@@ -2,8 +2,10 @@
 PCA-GLUE is a method used for strain estimation in Ultrasound Elastography.
 
 This is the code used by Abdelrahman Zayed in
-1. **The IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control (TUFFC) journal paper entitled "Fast Strain Estimation and Frame Selection in Ultrasound Elastography using Machine Learning".**:https://ieeexplore.ieee.org/document/9091615
-2. **The IEEE 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) paper entitled "Fast approximate time-delay estimation in ultrasound elastography using principal component analysis".**:https://arxiv.org/pdf/1911.05242.pdf
+1. **The IEEE Transactions on Ultrasonics, Ferroelectrics and Frequency Control (TUFFC) journal paper entitled "Fast Strain Estimation and Frame Selection in Ultrasound Elastography using Machine Learning".**
+2. https://ieeexplore.ieee.org/document/9091615
+3. **The IEEE 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) paper entitled "Fast approximate time-delay estimation in ultrasound elastography using principal component analysis".**
+4. https://arxiv.org/pdf/1911.05242.pdf
  
 
 ## How it works
