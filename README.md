@@ -7,7 +7,7 @@ We introduce a method that learns 12 displacement modes in quasi-static elastogr
 
 <div style="text-align: center">
 <img src="images/algorithm_steps.PNG" width="600">
-<p style="text-align: center;"> <b>Figure:</b> The overall pipeline. </p>
+<p style="text-align: center;"> <b>Figure:</b> The overall pipeline for our method. We first decompose the displacement image between 2 frames into a linear sum of 12 pre-copmuted pricinpal components. We then use the weights of these components as features to a classifier to determine the suitablity of the frame pair. </p>
 </div>
 
 For more details:
