@@ -6,7 +6,7 @@ We introduce a method that learns 12 displacement modes in quasi-static elastogr
 
 
 <div style="text-align: center">
-<img src="images/algorithm_steps.png" width="600">
+<img src="images/policy_gradient_algorithm.png" width="600">
 <p style="text-align: center;"> <b>Figure:</b> The pipeline used in the policy gradient approach. </p>
 </div>
 
